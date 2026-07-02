@@ -1,0 +1,6 @@
+process_name,owner,status,last_update,priority,notes
+Customer Debug Flow,Engineering,Active,2026-07-02,High,Documentation needs to be updated for the latest support process
+Database Maintenance,Data Operations,Pending,2026-07-01,Medium,Review required before next maintenance cycle
+AI Documentation Assistant,Automation Team,In Progress,2026-07-02,High,Internal AI tool being tested for documentation generation
+Support Ticket Review,Customer Engineering,Active,2026-06-30,Medium,Weekly review of customer issues and response times
+Workflow Automation Tracker,Software Team,In Progress,2026-07-01,High,Automation scripts are being created to reduce repetitive manual tasks
